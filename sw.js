@@ -3,7 +3,7 @@ const dynamicCacheName = 'site-dynamic-v1';
 const assets = [
 	'/',
 	'/spy',
-	'/spy/#/'
+	'/spy/#'
 ];
 
 self.addEventListener('install', event => {
