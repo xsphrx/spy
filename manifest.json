@@ -43,7 +43,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/spy/#/",
+  "start_url": ".",
   "display": "standalone",
   "theme_color": "#757575",
   "background_color": "#1F1F1F",
