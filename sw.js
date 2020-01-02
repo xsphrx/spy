@@ -4,7 +4,6 @@ const assets = [
 	'/',
 	'/spy',
 	'/spy/#/'
-	'https://fonts.googleapis.com/icon?family=Material+Icons'
 ];
 
 self.addEventListener('install', event => {
